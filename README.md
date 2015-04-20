@@ -53,7 +53,7 @@ What this means: I wasn't given a month that has one of the unique days, so I kn
 
 Bernard: At first I didn't know when Cheryl's birthday is, but now I know.
 
-What this means: I was given a day that is unique in the remaining set, which allows me to deduce the month.
+What this means: I now know that Albert wasn't given either month with a unique day. I was given a day that is unique in the remaining set, which allows me to deduce the month.
 
 * July: **14**, 16
 * August: **14**, 15, 17
@@ -64,7 +64,7 @@ What this means: I was given a day that is unique in the remaining set, which al
 
 Albert: Now I know when Cheryl's birthday is too.
 
-What this means: I was given a month that allows me to deduce the day.
+What this means: I now know that Bernard was given a day in the remaining set that allowed him to deduce the month. I was given a month that allows me to deduce the day.
 
 * July: 16
 * August: 15, 17

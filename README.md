@@ -10,10 +10,10 @@ Solution to viral logic problem from April 2015 as reported on [The Daily Mail U
 * July 14, July 16
 * August 14, August 15, August 17
 
-*Cheryl then tells Albert and Bernard separately the month and the day of her birthday, respectively.<br />
-**Albert**: I don't know when Cheryl's birthday is, but I know that Bernard doesn't know either.<br />
-**Bernard**: At first I didn't know when Cheryl's birthday is, but now I know.<br />
-**Albert**: Now I know when Cheryl's birthday is too.*
+*Cheryl then tells Albert and Bernard separately the month and the day of her birthday, respectively.*<br />
+***Albert:*** *I don't know when Cheryl's birthday is, but I know that Bernard doesn't know either.*<br />
+***Bernard:*** *At first I didn't know when Cheryl's birthday is, but now I know.*<br />
+***Albert:*** *Now I know when Cheryl's birthday is too.*
 
 So when is Cheryl's birthday?
 
@@ -34,7 +34,7 @@ The conversation between Albert and Bernard is the key to the question, so don't
 
 ### The Conversation
 
-Properly interpreting the conversation and noticing ***who*** is speaking (the one who knows the month or the day) is critical.
+Properly interpreting the conversation and knowing ***who*** is speaking (the one who knows the month or the day) is critical.
 
 #### Albert speaks (first)
 

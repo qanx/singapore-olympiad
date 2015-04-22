@@ -2,9 +2,23 @@ package main
 
 import "fmt"
 
-func getMonthsofUniqueDays() {
+func getKeysGivenValue(mapHash map[string][]int, value int) []string {
+	//
+	keySlice := make([]string, 1)
+	for key := range mapHash {
+		for i := 0; i < len(mapHash[key]); i++ {
+			if mapHash[key][i] == value {
+				keySlice = append(keySlice, key)
+			}
+		}
+	}
+	return keySlice
+}
+
+func getMonthsofUniqueDays(dateMap map[string][]int) {
 	//
 }
+
 func getDuplicateDay() {
 	//
 }
@@ -25,4 +39,8 @@ func main() {
 			fmt.Println(dates[key][i])
 		}
 	}
+
+	fmt.Println(getKeysGivenValue(dates, 19))
+	fmt.Println(getKeysGivenValue(dates, 14))
+
 }

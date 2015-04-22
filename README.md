@@ -1,5 +1,5 @@
 # singapore-olympiad
-Solution to viral logic problem from April 2015 as reported on [The Daily Mail UK](http://www.dailymail.co.uk/sciencetech/article-3037266/The-maths-problem-set-Singapore-teenagers-left-people-world-stumped.html). My friend Mark has a complete breakdown of why every possible solution passes or fails [here](http://mark.github.io/olympiad/).
+My solution to viral logic problem from April 2015 as reported on [The Daily Mail UK](http://www.dailymail.co.uk/sciencetech/article-3037266/The-maths-problem-set-Singapore-teenagers-left-people-world-stumped.html). My friend Mark has a complete breakdown of why every possible solution passes or fails [here](http://mark.github.io/olympiad/).
 
 ## When is Cheryl's Birthday?
 

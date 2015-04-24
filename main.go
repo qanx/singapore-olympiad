@@ -79,6 +79,11 @@ func main() {
 	fmt.Println("    Dates after Bernard's statement: ", dates)
 
 	//Third statement
+	for key := range dates {
+		if len(dates[key]) > 1 {
+			delete(dates, key)
+		}
+	}
 	fmt.Println("Albert: Now I know when Cheryl's birthday is too.")
-	fmt.Println("    Date after Albert's final statement: ")
+	fmt.Println("    Date after Albert's final statement: ", dates)
 }
